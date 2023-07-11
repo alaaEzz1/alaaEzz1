@@ -8,7 +8,7 @@
 </h3>
 <img align="right" alt="Android developer" width="400" src="https://raw.githubusercontent.com/alaaEzz1/alaaEzz1/main/assets/android-google-android.gif">
 
-- 👨‍💻 All of My Google Play projects are available at [https://play.google.com/store/apps/developer?id=Elmohandes+Alaa+Ahmed](https://play.google.com/store/apps/developer?id=Elmohandes+Alaa+Ahmed)
+- 👨‍💻 All of My Google Play projects are available at [My Store](https://play.google.com/store/apps/dev?id=5296421837206440725)
 
 - 💬 Ask me about **Java ,Kotlin and Android Principles**
 
