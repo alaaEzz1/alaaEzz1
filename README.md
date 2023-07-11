@@ -1,6 +1,11 @@
 [![MasterHead](https://github.com/alaaEzz1/alaaEzz1/blob/main/assets/Blue%20Gray%20Geometric%20Technology%20LinkedIn%20Banner%20.png)](https://www.linkedin.com/in/alaa5554/)
 <h1 align="center">Hi 👋, I'm Alaa Ahmed Ezz-Eldin</h1>
-<h3 align="center">A passionate Android developer and communications engineer from Egypt work with java and Kotlin</h3>
+<h3 align="center">Alaa Ezz-eldein is a skilled mobile developer with expertise in Java, Kotlin, and Dart (Flutter). With a degree in Communication Engineering, they bring a strong technical background to their work. Passionate about creating innovative mobile applications, they excel in delivering high-quality solutions that meet client needs. Their collaborative nature and attention to detail make them a valuable asset to any mobile development project.
+
+
+
+
+</h3>
 <img align="right" alt="Android developer" width="400" src="https://raw.githubusercontent.com/alaaEzz1/alaaEzz1/main/assets/android-google-android.gif">
 
 - 👨‍💻 All of My Google Play projects are available at [https://play.google.com/store/apps/developer?id=Elmohandes+Alaa+Ahmed](https://play.google.com/store/apps/developer?id=Elmohandes+Alaa+Ahmed)
