@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/alaaEzz1/alaaEzz1/blob/main/assets/Blue%20Gray%20Geometric%20Technology%20LinkedIn%20Banner%20.png)](https://www.linkedin.com/in/alaa5554/)
+[![MasterHead](https://github.com/alaaEzz1/alaaEzz1/blob/main/assets/Black%20Blue%20Modern%20Futuristic%20Software%20Labs%20LinkedIn%20Banner.png)](https://www.linkedin.com/in/alaa5554/)
 
 <h1 align="center">Alaa Ahmed Ezz-Eldin</h1>
 <h3 align="center">Software Engineer | Laravel Backend | Flutter Mobile | Kotlin Android</h3>
